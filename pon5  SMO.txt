@@ -1,0 +1,160 @@
+er RX - ONU gpon-1/1/5-onu-0(2164)
+-21.8 dBm
+Power RX - ONU gpon-1/1/5-onu-1(1525)
+-22.6 dBm
+Power RX - ONU gpon-1/1/5-onu-2(94)
+-26.4 dBm
+Power RX - ONU gpon-1/1/5-onu-3(2714)
+-27.9 dBm
+Power RX - ONU gpon-1/1/5-onu-4(3927)
+-21.9 dBm
+Power RX - ONU gpon-1/1/5-onu-5(4705)
+-25.8 dBm
+Power RX - ONU gpon-1/1/5-onu-6(7676)
+-28.9 dBm
+Power RX - ONU gpon-1/1/5-onu-7(8460)
+-27.0 dBm
+Power RX - ONU gpon-1/1/5-onu-8(7760)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-9(3161)
+-24.7 dBm
+Power RX - ONU gpon-1/1/5-onu-10(7808)
+-25.6 dBm
+Power RX - ONU gpon-1/1/5-onu-11(4062)
+100 dBm
+Power RX - ONU gpon-1/1/5-onu-12(4301)
+-29.2 dBm
+Power RX - ONU gpon-1/1/5-onu-13(2186)
+-26.0 dBm
+Power RX - ONU gpon-1/1/5-onu-14(7875)
+-23.3 dBm
+Power RX - ONU gpon-1/1/5-onu-15(9365)
+-22.5 dBm
+Power RX - ONU gpon-1/1/5-onu-16(7919)
+-31.0 dBm
+Power RX - ONU gpon-1/1/5-onu-17(8234)
+-24.3 dBm
+Power RX - ONU gpon-1/1/5-onu-18(8031)
+-22.8 dBm
+Power RX - ONU gpon-1/1/5-onu-19(2819)
+-22.4 dBm
+Power RX - ONU gpon-1/1/5-onu-20(9851)
+-24.7 dBm
+Power RX - ONU gpon-1/1/5-onu-21(9238)
+-24.2 dBm
+Power RX - ONU gpon-1/1/5-onu-22(5355)
+-24.1 dBm
+Power RX - ONU gpon-1/1/5-onu-23(8256)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-24(8269)
+-31.5 dBm
+Power RX - ONU gpon-1/1/5-onu-25(8278)
+-23.5 dBm
+Power RX - ONU gpon-1/1/5-onu-26(8295)
+-23.9 dBm
+Power RX - ONU gpon-1/1/5-onu-27(8305)
+-23.2 dBm
+Power RX - ONU gpon-1/1/5-onu-28(8401)
+-31.5 dBm
+Power RX - ONU gpon-1/1/5-onu-29(8507)
+-26.2 dBm
+Power RX - ONU gpon-1/1/5-onu-30(5861)
+-23.6 dBm
+Power RX - ONU gpon-1/1/5-onu-31(10514)
+0 dBm
+Power RX - ONU gpon-1/1/5-onu-32(9041)
+-23.4 dBm
+Power RX - ONU gpon-1/1/5-onu-33(8607)
+-22.4 dBm
+Power RX - ONU gpon-1/1/5-onu-34(8623)
+-30.5 dBm
+Power RX - ONU gpon-1/1/5-onu-35(8648)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-36(2995)
+-22.5 dBm
+Power RX - ONU gpon-1/1/5-onu-37(9945)
+-22.4 dBm
+Power RX - ONU gpon-1/1/5-onu-38(8707)
+-23.6 dBm
+Power RX - ONU gpon-1/1/5-onu-39(8702)
+-31.5 dBm
+Power RX - ONU gpon-1/1/5-onu-40(8988)
+-31.0 dBm
+Power RX - ONU gpon-1/1/5-onu-41(4119)
+-23.0 dBm
+Power RX - ONU gpon-1/1/5-onu-42(5861)
+-21.9 dBm
+Power RX - ONU gpon-1/1/5-onu-43(2708)
+-22.5 dBm
+Power RX - ONU gpon-1/1/5-onu-44(8802)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-45(10046)
+0 dBm
+Power RX - ONU gpon-1/1/5-onu-46(8825)
+-23.0 dBm
+Power RX - ONU gpon-1/1/5-onu-47(8820)
+-22.5 dBm
+Power RX - ONU gpon-1/1/5-onu-48(8863)
+-23.0 dBm
+Power RX - ONU gpon-1/1/5-onu-49(2807)
+-23.5 dBm
+Power RX - ONU gpon-1/1/5-onu-51(6480)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-52(8923)
+-23.8 dBm
+Power RX - ONU gpon-1/1/5-onu-54(4062)
+-22.8 dBm
+Power RX - ONU gpon-1/1/5-onu-55(9059)
+0 dBm
+Power RX - ONU gpon-1/1/5-onu-56(1848)
+-23.3 dBm
+Power RX - ONU gpon-1/1/5-onu-57(9203)
+-24.7 dBm
+Power RX - ONU gpon-1/1/5-onu-58(9261)
+-23.7 dBm
+Power RX - ONU gpon-1/1/5-onu-59(6807)
+-26.2 dBm
+Power RX - ONU gpon-1/1/5-onu-60(9379)
+-22.3 dBm
+Power RX - ONU gpon-1/1/5-onu-61(9377)
+-22.7 dBm
+Power RX - ONU gpon-1/1/5-onu-62(3056)
+-25.1 dBm
+Power RX - ONU gpon-1/1/5-onu-63(8616)
+-31.0 dBm
+Power RX - ONU gpon-1/1/5-onu-64(5573)
+-27.4 dBm
+Power RX - ONU gpon-1/1/5-onu-65(9406)
+-28.0 dBm
+Power RX - ONU gpon-1/1/5-onu-66(2041)
+-28.2 dBm
+Power RX - ONU gpon-1/1/5-onu-67(9593)
+-26.2 dBm
+Power RX - ONU gpon-1/1/5-onu-68(9602)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-69(9618)
+-25.2 dBm
+Power RX - ONU gpon-1/1/5-onu-70(3236)
+-27.1 dBm
+Power RX - ONU gpon-1/1/5-onu-71(5177)
+-23.0 dBm
+Power RX - ONU gpon-1/1/5-onu-72(9704)
+-27.7 dBm
+Power RX - ONU gpon-1/1/5-onu-73(9782)
+-31.0 dBm
+Power RX - ONU gpon-1/1/5-onu-74(9802)
+-22.9 dBm
+Power RX - ONU gpon-1/1/5-onu-75(10035)
+-27.4 dBm
+Power RX - ONU gpon-1/1/5-onu-76(9904)
+-22.3 dBm
+Power RX - ONU gpon-1/1/5-onu-77(10173)
+-27.2 dBm
+Power RX - ONU gpon-1/1/5-onu-78(10057)
+-29.6 dBm
+Power RX - ONU gpon-1/1/5-onu-79(10109)
+-33.0 dBm
+Power RX - ONU gpon-1/1/5-onu-80(10047)
+-23.5 dBm
+Power RX - ONU gpon-1/1/5-onu-81(7570)
+-31.5 dBm

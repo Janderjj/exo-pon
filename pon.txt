@@ -1,0 +1,273 @@
+ 2129 
+ COOPERATIVA DE TRANSPORTES RODOVIARIOS DE CARGAS E LOGISTICA LOCACAO 
+ 2019-10-08 
+ Serviço Habilitado 
+ (5) Internet Banda Larga 35Mb 
+ SHOPPING MOXUARA                                   
+ 4 
+ ONU-WIFIBER-AC121 
+  
+ ITBSCFC45807 
+ 8333                 
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) ROD BR 262, 6555 
+ CAMPO GRANDE 
+ 29145-910 
+ Cariacica 
+ ES 
+ 05/04/2024 16:00:09 PM 
+ 2988 
+ PRIME VIX TRANSPORTES LTDA 
+ 2024-05-06 
+ Serviço Habilitado 
+ (7) Banda Larga Shopping 420Mb C/Fidelidade 
+ SHOPPING MOXUARA                                   
+ 9 
+ DM986-204 
+ 70-CD-91-D5-DF-6D 
+ DACM91D5DF6C 
+ 11087                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV MARIO GURGEL,005353 
+ SAO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 10/05/2024 15:50:14 PM 
+ 3107 
+ BEZERRA E GAIA SOCIEDADE DE ADVOGADOS 
+ 2023-06-01 
+ Serviço Habilitado 
+ (4) Banda Larga Shopping 120Mb C/Fidelidade 
+ SHOPPING MOXUARA                                   
+ 6 
+ ONU - DM986-414 
+ 70-CD-91-D4-5C-FE 
+ DACM91D45CFE 
+ 11243                
+ BRIDGE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AVENIDA MÁRIO GURGEL, 6555 
+ SÃO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 15/04/2024 10:45:24 AM 
+ 3564 
+ RJ ASSESSORIA CONTABIL EIRELI 
+ 2024-05-24 
+ Serviço Habilitado 
+ (1) Banda Larga Shopping 600Mb C/Fidelidade 
+ SHOPPING MOXUARA                                   
+ 12 
+ DM984-100B 
+ 70-CD-91-61-16-D8 
+ DACM916116D8 
+ 3635                 
+ BRIDGE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV.. AVENIDA MÁRIO GURGEL 5353 , 
+ SÃO FRANCISCO 
+ 29145910 
+ Cariacica 
+ ES 
+ 28/05/2024 15:10:32 PM 
+ 5183 
+ CAROLINE VELTEN DUARTE 
+ 2024-03-13 
+ Serviço Habilitado 
+ (1) Banda Larga 600Mb C/Fidelidade 
+ SHOPPING MOXUARA                                   
+ 1 
+ DM986-204 
+ 70-CD-91-F1-6E-B8 
+ DACM91F16EB8 
+ 12957                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AVENIDA MÁRIO GURGEL 5353 
+ SÃO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 11/03/2024 16:00:08 PM 
+ 8518 
+ GLOBAL SOLUTION EIRELI 
+ 2023-02-24 
+ Serviço Habilitado 
+ (0) Banda Larga Shopping 120Mb C/Fidelidade 
+ Cariacica-Rua 
+ 0 
+ ONU-WIFIBER-AC121 
+  
+ ITBSCFE5094D 
+ 9470                 
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. MÁRIO GURGEL , 5353 
+ SÃO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 01/03/2024 11:05:23 AM 
+ 8586 
+ MARCELA RANGEL LOPES 
+ 2023-03-08 
+ Serviço Habilitado 
+ (0) Banda Larga 120Mb C/Fidelidade 
+ SHOPPING MOXUARA                                   
+ 7 
+ ONU-WIFIBER-AC121 
+  
+ ITBSCFE5C9FE 
+ 9489                 
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. MÁRIO GURGEL, 5353 
+ SAO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 25/04/2024 12:35:09 PM 
+ 10277 
+ MARK GIOVANI SANT ANA FANTONI 
+ 2024-03-11 
+ Serviço Habilitado 
+ (0) Banda Larga Shopping 600Mb Promoção 12 meses 
+  
+ 2 
+ DM986-204 
+ 70-CD-91-DF-77-95 
+ DACM91DF7794 
+ 12630                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. MARIO GURGEL , 5353 
+ SAO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 21/03/2024 09:40:28 AM 
+ 10403 
+ POLANY GOMES ARCANJO 
+ 2024-04-02 
+ Serviço Habilitado 
+ (0) Banda Larga 120Mb C/Fidelidade 
+  
+ 3 
+ DM986-204 
+ 70-CD-91-F2-69-88 
+ DACM91F26988 
+ 13154                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. AVENIDA MáRIO GURGEL , 5353 
+ SãO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 05/04/2024 12:10:11 PM 
+ 10422 
+ GABRIELLE DE OLIVEIRA MOURA 
+ 2024-04-04 
+ Serviço Habilitado 
+ (0) Banda Larga 120Mb C/Fidelidade 
+  
+ 5 
+ DM986-204 
+ 70-CD-91-D5-EE-2D 
+ DACM91D5EE2C 
+ 11069                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. AVENIDA MáRIO GURGEL , 5353 
+ SãO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 10/04/2024 16:25:13 PM 
+ 10531 
+ LUCIANA ROSSETTO FERNANDES 
+ 2024-04-24 
+ Serviço Habilitado 
+ (0) Banda Larga 420Mb C/Fidelidade 
+  
+ 8 
+ ONU-WIFIBER-AC121 
+ 48-51-CF-C1-9A-73 
+ ITBSCFC19A73 
+ 8589                 
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. AVENIDA MáRIO GURGEL , 5353 
+ SãO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 29/04/2024 18:00:08 PM 
+ 10648 
+ NILTON SERGIO BRAGA 
+ 2024-05-16 
+ Serviço Habilitado 
+ (0) Banda Larga 600Mb C/Fidelidade 
+  
+ 10 
+ DM986-204 
+ 70-CD-91-F2-60-DC 
+ DACM91F260DC 
+ 13323                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. AVENIDA MáRIO GURGEL , 5353 
+ SãO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 20/05/2024 16:55:15 PM 
+ 10663 
+ SAFEOFFICES COWORKING LTDA 
+ 2024-05-20 
+ Serviço Habilitado 
+ (0) Banda Larga Shopping 800Mb C/Fidelidade 
+  
+ 11 
+ DM986-204 
+ 70-CD-91-F1-5C-14 
+ DACM91F15C14 
+ 12964                
+ PPPOE 
+ 90 
+ 0 
+ 0 
+ (PADRAO) AV. AVENIDA MáRIO GURGEL , 5353 
+ SãO FRANCISCO 
+ 29145-910 
+ Cariacica 
+ ES 
+ 22/05/2024 14:40:09 PM 

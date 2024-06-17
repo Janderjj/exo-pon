@@ -1,0 +1,41 @@
+ - ONU gpon-1/1/1-onu-0(7589)
+-23.9 dBm
+Power RX - ONU gpon-1/1/1-onu-1(6041)
+-26.8 dBm
+Power RX - ONU gpon-1/1/1-onu-2(10506)
+-25.7 dBm
+Power RX - ONU gpon-1/1/1-onu-3(6085)
+-26.7 dBm
+Power RX - ONU gpon-1/1/1-onu-5(6207)
+-23.4 dBm
+Power RX - ONU gpon-1/1/1-onu-6(6906)
+-26.1 dBm
+Power RX - ONU gpon-1/1/1-onu-7(7130)
+-25.1 dBm
+Power RX - ONU gpon-1/1/1-onu-8(6422)
+-25.1 dBm
+Power RX - ONU gpon-1/1/1-onu-9(6421)
+-25.8 dBm
+Power RX - ONU gpon-1/1/1-onu-10(6417)
+0 dBm
+Power RX - ONU gpon-1/1/1-onu-12(9272)
+0 dBm
+Power RX - ONU gpon-1/1/1-onu-13(9333)
+-25.5 dBm
+Power RX - ONU gpon-1/1/1-onu-14(6739)
+-24.0 dBm
+Power RX - ONU gpon-1/1/1-onu-16(6774)
+-24.7 dBm
+Power RX - ONU gpon-1/1/1-onu-17(7238)
+-25.7 dBm
+Power RX - ONU gpon-1/1/1-onu-19(6860)
+-27.7 dBm
+Power RX - ONU gpon-1/1/1-onu-22(8551)
+-25.0 dBm
+Power RX - ONU gpon-1/1/1-onu-25(7345)
+-24.3 dBm
+Power RX - ONU gpon-1/1/1-onu-11(7272)
+-26.8 dBm
+
+joselia
+
